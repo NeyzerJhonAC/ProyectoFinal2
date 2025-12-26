@@ -47,7 +47,7 @@ El proyecto mantiene las buenas prácticas de separación de responsabilidades:
 
 El proyecto se encuentra desplegado y accesible públicamente en el siguiente enlace:
 
-🔗 🔗 **[Visitar Proyecto Final: SwimLife](https://neyzerjhonac.github.io/ProyectoFinal2/)**
+🔗 **[Visitar Proyecto Final: SwimLife](https://neyzerjhonac.github.io/ProyectoFinal2/)**
 
 ---
 
